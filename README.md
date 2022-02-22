@@ -1,4 +1,4 @@
-# Visualizaci-n-de-data-matem-tica
+# Visualizacion-de-data-matematica
 Este documento en en GitHub es para subir la aplicación de mi pensamiento probabilístico en python.
 
 #Pre-requisitos 📋
